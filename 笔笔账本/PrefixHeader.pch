@@ -1,0 +1,29 @@
+//
+//  PrefixHeader.pch
+//  笔笔账本
+//
+//  Created by com.sheng on 16/6/4.
+//  Copyright © 2016年 GuangJun. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#ifdef __OBJC__
+
+#import "Constant.h"
+
+#import <MBProgressHUD.h>
+#import "UIView+HUD.h"
+
+#import "FMDB.h"
+
+#import "UIImageView+RoundImageView.h"
+
+#import <YYKit.h>
+
+#import "KeyboardManager.h"
+
+#endif
+
+#endif /* PrefixHeader_pch */

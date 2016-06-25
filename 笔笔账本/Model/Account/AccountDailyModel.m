@@ -1,0 +1,13 @@
+//
+//  AccountDailyModel.m
+//  笔笔账本
+//
+//  Created by com.sheng on 16/6/19.
+//  Copyright © 2016年 GuangJun. All rights reserved.
+//
+
+#import "AccountDailyModel.h"
+
+@implementation AccountDailyModel
+
+@end
